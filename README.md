@@ -1,2 +1,2 @@
 # myhmoments
-ski hydropathy moments calculator
+sbi hydropathy moments calculator
