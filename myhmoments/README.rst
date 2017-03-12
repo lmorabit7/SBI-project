@@ -1,4 +1,4 @@
-MYHMOMENTS: CALCULATION OF HYDROPHOBICITY MOMENTS IN LOCAL REGIONS
+MYHMOMENTS: CALCULATION OF HYDROPATHY MOMENTS IN LOCAL REGIONS
 ==================================================================
 ==================================================================
 
