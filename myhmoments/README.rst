@@ -11,13 +11,13 @@ Before starting the installation:
 - installing NumPy and Biopython beforehand is recommended.
 
 To start using the package you need to build and install Myhmoments. Download and unzip the source code
-from https://github.com/lmorabit7/SBI-project, go to this directory at the command line, and type:
+from https://github.com/lmorabit7/SBI-project, go to this directory at the command line, and type::
 
     python3 setup.py build
     python3 setup.py test
     sudo python3 setup.py install
 
-Alternatively, if you prefer to install the package locally (with a symlink) simply type:
+Alternatively, if you prefer to install the package locally (with a symlink) simply type::
 
     pip3 install -e .
 
