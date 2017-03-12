@@ -8,7 +8,7 @@ regions of proteins given a pdb file.
 
 Installation
 =================
-Before starting the installation:
+Before starting the installation::
 - **make sure that Python is installed correctly**.
 - installing NumPy and Biopython beforehand is recommended.
 
