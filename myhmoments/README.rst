@@ -8,8 +8,10 @@ regions of proteins given a pdb file.
 
 Installation
 =================
-Before starting the installation::
+Before starting the installation:
+
 - **make sure that Python is installed correctly**.
+
 - installing NumPy and Biopython beforehand is recommended.
 
 To start using the package you need to build and install Myhmoments. Download and unzip the source code
