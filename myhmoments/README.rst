@@ -58,4 +58,4 @@ Distribution Structure
 - ``MANIFEST.in`` -- Tells distutils what files to distribute.
 - ``setup.py``    -- Installation file.
 - ``myhmoments/`` -- The main code base code.
-- ``.gitignore``  -- Tells python which files should ignore to not commit to source control.
+- ``.gitignore``  -- Which intermediary files created by the python build system should be ignored to not commit to source control.
